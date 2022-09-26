@@ -1,5 +1,4 @@
 # midipaolo.github.io
-[![Netlify Status](https://api.netlify.com/api/v1/badges/97d00148-4d16-487b-bbff-e3b6baee154c/deploy-status)](https://app.netlify.com/sites/relaxed-khapse-336b53/deploys)
 
 I'm making a site for the CS/Tech Department at TSS
 
